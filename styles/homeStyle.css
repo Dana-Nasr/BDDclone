@@ -94,3 +94,24 @@
   margin: 10px;
   text-align: center;
 }
+.trendbtn {
+  padding: 10px 20px;
+  border-radius: 29px;
+  width: 150px;
+}
+.ternd-img-size {
+  width: 350px;
+  height: 200px;
+}
+.trend-text {
+  width: 200px;
+  margin: 20px;
+}
+.trend {
+  width: 350px;
+  height: 400px;
+}
+.trending-section p {
+  padding: 10px;
+  margin: 5px;
+}
