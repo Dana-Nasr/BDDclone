@@ -4,7 +4,7 @@
   height: 100vh;
   opacity: 0.9;
 }
-.qoute {
+.main-section h2 {
   padding-top: 15%;
   font-size: 50px;
   text-align: center;
@@ -25,7 +25,7 @@
   font-size: 20px;
   font-weight: 6px;
 }
-.img-size {
+.foundations img {
   width: 140px;
   height: 80px;
   margin: 12%;
@@ -42,17 +42,19 @@
   margin: 2%;
 }
 .comunity-section {
-  width: auto;
+  width: 100%;
+  padding-right: 20px;
+  padding-top: 5px;
+  margin: 0px;
 }
-.imgComunity {
+.comunity-section > img {
   width: 500px;
   height: 50%;
 }
 
 .comunity {
-  margin: 5px;
   width: 200px;
-  height: 600px;
+  height: 650px;
   padding: 2rem;
   border-radius: 10px;
   font-size: 20px;
@@ -65,18 +67,13 @@
   font-size: 20px;
   font-weight: 20px;
 }
-.comunity-section {
-  width: 100%;
-  padding-right: 20px;
-  margin: 0px;
+.download-section {
+  margin: 30px;
 }
-.download {
+.download-section img {
   width: 150px;
   height: 55px;
   margin: 5px;
-}
-.download-section {
-  margin: 30px;
 }
 .hub-section {
   background-image: url(../assets/images/parallax-light.jpg);
@@ -84,23 +81,23 @@
   height: 50vh;
   background-size: cover;
 }
-.hub-img-size {
+.hub-section img {
   width: 150px;
   height: 70px;
   margin: 60px;
 }
-.hub-text {
+.hub-section h4 {
   width: 200px;
   margin: 10px;
   text-align: center;
 }
-.trendbtn {
+.trending-section button {
   padding: 10px 20px;
   border-radius: 29px;
   width: 150px;
   margin-bottom: 30px;
 }
-.ternd-img-size {
+.trending-section img {
   width: 350px;
   height: 200px;
 }
