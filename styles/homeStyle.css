@@ -123,11 +123,12 @@
 }
 
 .pgfooter {
-  margin: 40px 0px;
-  padding: 20px;
+  margin-top: 40px;
+  padding: 40px 200px;
 }
 .pgfooter > div {
   width: 100%;
+  height: 100%;
 }
 .list {
   margin-top: 30px;
@@ -139,4 +140,26 @@
   list-style: none;
   margin: 10px;
   font-size: 15px;
+  margin-bottom: 20px;
+}
+.contact {
+  margin-top: 30px;
+}
+.contact p {
+  margin-bottom: 10px;
+}
+.contact img {
+  width: 170px;
+  height: 60px;
+  margin: 10px;
+  margin-left: 0px;
+}
+.contact h6 {
+  padding: 10px;
+}
+span {
+  font-size: 12px;
+}
+.subscribe {
+  padding-right: 110px;
 }
