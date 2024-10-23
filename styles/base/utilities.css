@@ -32,3 +32,6 @@
 .start {
   justify-content: start;
 }
+.wrap {
+  flex-wrap: wrap;
+}

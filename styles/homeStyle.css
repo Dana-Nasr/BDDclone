@@ -44,3 +44,21 @@ li:hover {
   background-color: rgba(255, 255, 255, 0.2);
   padding: 10px;
 }
+.message {
+  font-size: 30px;
+  padding: 10px;
+}
+.foundations {
+  margin: 20px;
+  text-align: center;
+  width: 85%;
+  padding: 2rem;
+  border-radius: 3px;
+  font-size: 20px;
+  font-weight: 6px;
+}
+.img-size {
+  width: 140px;
+  height: 80px;
+  margin: 12%;
+}
