@@ -30,6 +30,7 @@
   background-image: url(../assets/images/bg.jpg);
   width: 100%;
   height: 100vh;
+  opacity: 0.9;
 }
 
 .qoute {
@@ -38,6 +39,7 @@
   text-align: center;
   font-weight: 600px;
   padding-left: 10%;
+  padding-right: 10%;
 }
 li:hover {
   border-radius: 3px;
@@ -51,7 +53,7 @@ li:hover {
 .foundations {
   margin: 20px;
   text-align: center;
-  width: 85%;
+  width: 250px;
   padding: 2rem;
   border-radius: 3px;
   font-size: 20px;
@@ -61,4 +63,11 @@ li:hover {
   width: 140px;
   height: 80px;
   margin: 12%;
+}
+.vesion-section {
+  width: 100%;
+  height: 70vh;
+  background-size: cover;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+    url(https://beirutdigitaldistrict.com/wp-content/uploads/2024/01/Shared-Space-at-BDD.png);
 }
