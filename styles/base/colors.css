@@ -1,3 +1,9 @@
 .white {
   color: #ffffff;
 }
+.primary {
+  color: #0078be;
+}
+.bk-primary {
+  background-color: #0078be;
+}
