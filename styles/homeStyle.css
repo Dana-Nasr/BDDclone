@@ -39,7 +39,7 @@
   font-weight: 600px;
   padding-left: 10%;
 }
-li :hover {
+li:hover {
   border-radius: 3px;
   background-color: rgba(255, 255, 255, 0.2);
   padding: 10px;
