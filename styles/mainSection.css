@@ -1,0 +1,42 @@
+.navbar ul {
+  width: 80%;
+}
+.navbar li {
+  margin: 1%;
+  list-style: none;
+  font-family: "TheMixSemiBold-Plain";
+  cursor: pointer;
+}
+
+.BDD-logo {
+  margin: 20px;
+  width: 6%;
+
+  margin-left: 80px;
+}
+.btn {
+  padding: 10px 20px;
+  border-radius: 29px;
+  width: 100%;
+}
+
+.main-section {
+  background-image: url(../assets/images/bg.jpg);
+  width: 100%;
+  height: 100vh;
+  opacity: 0.9;
+}
+
+.qoute {
+  padding-top: 15%;
+  font-size: 50px;
+  text-align: center;
+  font-weight: 600px;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+li:hover {
+  border-radius: 3px;
+  background-color: rgba(255, 255, 255, 0.2);
+  padding: 10px;
+}
