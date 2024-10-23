@@ -163,3 +163,7 @@ span {
 .subscribe {
   padding-right: 110px;
 }
+.divider {
+  border-bottom: 1px solid;
+  margin-top: 3px;
+}
