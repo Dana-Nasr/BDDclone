@@ -30,13 +30,57 @@
   height: 80px;
   margin: 12%;
 }
+
 .vesion-section {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+    url(https://beirutdigitaldistrict.com/wp-content/uploads/2024/01/Shared-Space-at-BDD.png);
   width: 100%;
   height: 70vh;
   background-size: cover;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
-    url(https://beirutdigitaldistrict.com/wp-content/uploads/2024/01/Shared-Space-at-BDD.png);
 }
 .vedio {
   margin: 2%;
+}
+.comunity-section {
+  width: auto;
+}
+.imgComunity {
+  width: 500px;
+  height: 50%;
+}
+
+.comunity {
+  margin: 5px;
+  width: 200px;
+  height: 600px;
+  padding: 2rem;
+  border-radius: 10px;
+  font-size: 20px;
+  font-weight: 6px;
+}
+.comunity li {
+  margin: 10px;
+  margin-right: 2px;
+  list-style: square;
+  font-size: 20px;
+  font-weight: 20px;
+}
+.comunity-section {
+  width: 100%;
+  padding-right: 20px;
+  margin: 0px;
+}
+.download {
+  width: 150px;
+  height: 55px;
+  margin: 5px;
+}
+.download-section {
+  margin: 30px;
+}
+.hub-section {
+  background-image: url(../assets/images/parallax-light.jpg);
+  width: 100%;
+  height: 50vh;
+  background-size: cover;
 }
