@@ -84,3 +84,13 @@
   height: 50vh;
   background-size: cover;
 }
+.hub-img-size {
+  width: 150px;
+  height: 80px;
+  margin: 30px;
+}
+.hub-text {
+  width: 150px;
+  margin: 10px;
+  text-align: center;
+}
