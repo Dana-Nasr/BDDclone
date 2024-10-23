@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: none;
+  box-sizing: border-box;
+}
+.navbar ul {
+  width: 80%;
+}
+.navbar li {
+  margin: 1%;
+  list-style: none;
+  font-family: "TheMixSemiBold-Plain";
+  cursor: pointer;
+}
+.BDD-logo {
+  margin: 20px;
+  width: 6%;
+  margin-left: 80px;
+}
+.btn {
+  padding: 10px 20px;
+  border-radius: 29px;
+  width: 100%;
+}
+li:hover {
+  border-radius: 3px;
+  background-color: rgba(255, 255, 255, 0.2);
+  padding: 10px;
+}
