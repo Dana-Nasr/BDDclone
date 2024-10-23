@@ -98,6 +98,7 @@
   padding: 10px 20px;
   border-radius: 29px;
   width: 150px;
+  margin-bottom: 30px;
 }
 .ternd-img-size {
   width: 350px;
@@ -114,4 +115,12 @@
 .trending-section p {
   padding: 10px;
   margin: 5px;
+}
+.words img {
+  width: 250px;
+  height: 150px;
+  margin: 30px 20px;
+}
+.words h1 {
+  width: 300px;
 }
